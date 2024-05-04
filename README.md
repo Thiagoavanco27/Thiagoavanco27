@@ -1,16 +1,25 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World+🌍;+I'm+Thiago+Reis!;" />
 </h1>
-- 👀 I’m interested in learning something new and sharing what I've learned 
-- 🌱 I’m currently learning Python/Django and SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 Você pode entrar em contato comigo pela redes sociais
-  -- www.linkedin.com/in/27-santhiagoreis/
-  -- www.instagram.com/thiagoreis.27/
+
+<h2>
+- 👀 I'm always learning something new and sharing it here <br>
+- 🌱 I’m currently learning Python, R and AWS<br>
+- 📫 Você pode entrar em contato comigo pela redes sociais<br>
+<div> 
+  <a href="mailto:thiagoavanco27@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a> <br>
+  <a href="mailto:https://www.linkedin.com/in/27-santhiagoreis/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+</h2>
+
 
 <h2 align="center">⚒️Linguagens - Frameworks - Tecnologias ⚒️</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=python,github,R,docker,aws,SQL)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,github,r,docker,aws,mysql)](https://skillicons.dev)
 
 <div align="center">
   <h2>🐍 Minhas Contribuições 🐍</h2>
