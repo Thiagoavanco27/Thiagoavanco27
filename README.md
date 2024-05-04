@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!!+🌍;+Eu+sou+Thiago+Reis!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World+🌍;+I'm+Thiago+Reis!;" />
 </h1>
 - 👀 I’m interested in learning something new and sharing what I've learned 
 - 🌱 I’m currently learning Python/Django and SQL
@@ -7,6 +7,10 @@
 - 📫 Você pode entrar em contato comigo pela redes sociais
   -- www.linkedin.com/in/27-santhiagoreis/
   -- www.instagram.com/thiagoreis.27/
+
+<h2 align="center">⚒️Linguagens - Frameworks - Tecnologias ⚒️</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=python,github,R,docker,aws,SQL)](https://skillicons.dev)
 
 <div align="center">
   <h2>🐍 Minhas Contribuições 🐍</h2>
